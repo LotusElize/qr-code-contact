@@ -28,11 +28,11 @@ body {
 }
 
 .line-circle-dot__bg {
-    background: url(/images/line-1.svg) no-repeat top center,
-        url(/images/line-2.svg) no-repeat bottom center,
-        url(/images/line-3.svg) no-repeat center right,
-        url(/images/dotted-bg.svg) no-repeat left center,
-        url(/images/ellipse-bg.png) no-repeat bottom right;
+    background: url(images/line-1.svg) no-repeat top center,
+        url(images/line-2.svg) no-repeat bottom center,
+        url(images/line-3.svg) no-repeat center right,
+        url(images/dotted-bg.svg) no-repeat left center,
+        url(images/ellipse-bg.png) no-repeat bottom right;
 
 
 }
